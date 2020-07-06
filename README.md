@@ -8,9 +8,10 @@ Download your browsers Web Driver
 
 ## Installation
 
-'''python
+```python
 pip/pip3 install -r requirements.txt
-'''
+```
+
 You may need to set an environment variables to locate the web driver
 
 ## Usage
@@ -20,3 +21,7 @@ You may need to set an environment variables to locate the web driver
 3. Enter your friends username (must be followed)
 
 - text.txt can be changed according to your needs.
+
+## License
+
+[MIT](https://github.com/sulavmhrzn/instagram-message-bot/blob/master/license)
