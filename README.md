@@ -16,6 +16,11 @@ You may need to set an environment variables to locate the web driver
 
 ## Usage
 
+```python
+python/python3 run.py
+
+```
+
 1. Enter your username
 2. Enter your password (wont be shown on the terminal)
 3. Enter your friends username (must be followed)
